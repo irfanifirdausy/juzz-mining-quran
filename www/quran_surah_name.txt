@@ -1,0 +1,114 @@
+1|Al-Fatihah|Pembukaan|7
+2|Al-Baqarah|Sapi|286
+3|Ali 'Imran|Keluarga Imran|200
+4|An-Nisa'|Wanita|176
+5|Al-Ma'idah|Hidangan|120
+6|Al-An'am|Binatang Ternak|165
+7|Al-A'raf|Tempat Tertinggi|206
+8|Al-Anfal|Rampasan Perang|75
+9|At-Taubah|Pengampunan|129
+10|Yunus|Yunus|109
+11|Hud|Hud|123
+12|Yusuf|Yusuf|111
+13|Ar-Ra'd|Guruh|43
+14|Ibrahim|Ibrahim|52
+15|Al-Hijr|Hijr|99
+16|An-Nahl|Lebah|128
+17|Al-Isra'|Memperjalankan Malam Hari|111
+18|Al-Kahf|Goa|110
+19|Maryam|Maryam|98
+20|Taha|Taha|135
+21|Al-Anbiya'|Para Nabi|112
+22|Al-Hajj|Haji|78
+23|Al-Mu'minun|Orang-Orang Mukmin|118
+24|An-Nur|Cahaya|64
+25|Al-Furqan|Pembeda|77
+26|Asy-Syu'ara'|Para Penyair|227
+27|An-Naml|Semut-Semut|93
+28|Al-Qasas|Kisah-Kisah|88
+29|Al-'Ankabut|Laba-Laba|69
+30|Ar-Rum|Romawi|60|
+31|Luqman|Luqman|34
+32|As-Sajdah|Sajdah|30
+33|Al-Ahzab|Golongan Yang Bersekutu|73
+34|Saba'|Saba'|54
+35|Fatir|Maha Pencipta|45
+36|Yasin|Yasin|83
+37|As-Saffat|Barisan-Barisan|182
+38|Sad|Sad|88
+39|Az-Zumar|Rombongan|75
+40|Gafir|Maha Pengampun|85
+41|Fussilat|Yang Dijelaskan|54
+42|Asy-Syura|Musyawarah|53
+43|Az-Zukhruf|Perhiasan|89
+44|Ad-Dukhan|Kabut|59
+45|Al-Jasiyah|Berlutut|37
+46|Al-Ahqaf|Bukit Pasir|35
+47|Muhammad|Muhammad|38
+48|Al-Fath|Kemenangan|29
+49|Al-Hujurat|Kamar-Kamar|18
+50|Qaf|Qaf|45
+51|Az-Zariyat|Angin yang Menerbangkan|60
+52|At-Tur|Bukit Tursina|49
+53|An-Najm|Bintang|62
+54|Al-Qamar|Bulan|55
+55|Ar-Rahman|Maha Pengasih|78
+56|Al-Waqi'ah|Hari Kiamat|96
+57|Al-Hadid|Besi|29
+58|Al-Mujadalah|Gugatan|22
+59|Al-Hasyr|Pengusiran|24
+60|Al-Mumtahanah|Wanita yang diuji|13
+61|As-Saff|Barisan|14
+62|Al-Jumu'ah|Jumat|11
+63|Al-Munafiqun|Orang-orang Munafik|11
+64|At-Tagabun|Pengungkapan Kesalahan|18
+65|At-Talaq|Talak|12
+66|At-Tahrim|Pengharaman|12
+67|Al-Mulk|Kerajaan|30
+68|Al-Qalam|Pena|52
+69|Al-Haqqah|Hari Kiamat|52
+70|Al-Ma'arij|Tempat Naik|44
+71|Nuh|Nuh|28
+72|Al-Jinn|jin|28
+73|Al-Muzzammil|Orang yang Berselimut|20
+74|Al-Muddassir|Orang yang berkemul|56
+75|Al-Qiyamah|Hari kiamat|40
+76|Al-Insan|Manusia|31
+77|Al-Mursalat|Malaikat yang diutus|50
+78|An-Naba'|Berita Besar|40
+79|An-Nazi'at|Malaikat yang Mencabut|46
+80|'Abasa|Bermuka masam|42
+81|At-Takwir|Penggulungan|29
+82|Al-Infitar|Terbelah|19
+83|Al-Mutaffifin|Orang-orang curang|36
+84|Al-Insyiqaq|Terbelah|25
+85|Al-Buruj|Gugusan Bintang|22
+86|At-Tariq|Yang Datang Di Malam Hari|17
+87|Al-A'laa|Maha Tingg|19
+88|Al-Gasyiyah|Hari Kiamat|26
+89|Al-Fajr|Fajar|30
+90|Al-Balad|Negeri|20
+91|Asy-Syams|Matahari|15
+92|Al-Lail|Malam|21
+93|Ad-Duha|Duha|11
+94|Asy-Syarh|Lapang|8
+95|At-Tin|Buah Tin|8
+96|Al-'Alaq|Segumpal Darah|19
+97|Al-Qadr|Kemuliaan|5
+98|Al-Bayyinah|Bukti Nyata|8
+99|Az-Zalzalah|Guncangan|8
+100|Al-'Adiyat|Kuda yang berlari Kencang|11
+101|Al-Qari'ah|Hari Kiamat|11
+102|At-Takasur|Bermegah-Megahan|8
+103|Al-'Asr|Asar|3
+104|Al-Humazah|Pengumpat|9
+105|Al-Fil|Gajah|5
+106|Quraisy|Quraisy|4
+107|Al-Ma'un|Barang Yang Berguna|7
+108|Al-Kausar|Pemberian Yang Banyak|3
+109|Al-Kafirun|Orang-Orang kafir|6
+110|An-Nasr|Pertolongan|3
+111|Al-Lahab|Api yang bergejolak|5
+112|Al-Ikhlas|Ikhlas|4
+113|Al-Falaq|Subuh|5
+114|An-Nas|Manusia|6
