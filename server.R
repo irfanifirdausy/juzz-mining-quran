@@ -3,7 +3,6 @@
 # by : Irfani Firdausy (200605210001@student.uin-malang.ac.id) & Chilmiatus Shilfy (200605210010@student.uin-malang.ac.id)
 #  define function and serve 
 
-
 library(shiny)
 library(shinythemes)
 library(DT)
@@ -513,5 +512,4 @@ LEFT JOIN q1 b on a.sura_no=b.sura_no
     output$aboutfile <- renderUI({
       includeHTML("www/about.html")
     })
-    
 })

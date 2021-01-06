@@ -17,7 +17,6 @@ library(tm)
 
 # Define UI for application 
 shinyUI(fluidPage(theme = shinytheme("cerulean"),
-                  shinythemes::themeSelector(),  # <--- Theme Widget
                   #s: navbar
                   navbarPage("Quran Mining",
                              # s : menu 1 --
